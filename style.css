@@ -1,0 +1,15 @@
+img{
+	float:right;
+	border: 3px solid transparent ;
+	display: block;
+	box-shadow: 0 0 0 4px white;
+	margin-left: 2px;
+}
+.clearfix{
+	clear:both;
+}
+body{
+	width: 100px
+	height: 100vh;
+	background-image:linear-gradient(#5c9662,#94d49b,#5c9662);
+}
